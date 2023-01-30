@@ -1,4 +1,4 @@
-### Hi there 👋, Greetings, this is rootblind!
+### Greetings, this is rootblind! 
 #### I'm studying Computer Engineering and I like to code as a hobby.
 ![I'm studying Computer Engineering and I like to code as a hobby.](https://i.ibb.co/HFSYFj6/ompu.png)
 
