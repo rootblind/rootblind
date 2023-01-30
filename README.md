@@ -6,12 +6,12 @@ I'm an IT enthusiast, diligently craft and knowledge on the subject, but also I 
 
 Languages: 
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="C" src="https://i.ibb.co/47cqwTh/proxy-image.png"></code>
-<code><img height="20" alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png"></code>
-<code><img height="20" alt="PYTHON" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/182px-Python-logo-notext.svg.png"></code>
-<code><img height="20" alt="Nodejs" src="https://i.ibb.co/Z8Lp5cb/d.png"></code>
-<code><img height="20" alt="SQLite" src="https://media.trustradius.com/product-logos/Ou/HU/R8JW30GR5ELU-180x180.PNG"></code>
+<code><img height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" alt="C" src="https://i.ibb.co/47cqwTh/proxy-image.png"></code>
+<code><img height="40" alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png"></code>
+<code><img height="40" alt="PYTHON" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/182px-Python-logo-notext.svg.png"></code>
+<code><img height="40" alt="Nodejs" src="https://i.ibb.co/Z8Lp5cb/d.png"></code>
+<code><img height="40" alt="SQLite" src="https://media.trustradius.com/product-logos/Ou/HU/R8JW30GR5ELU-180x180.PNG"></code>
 
 - 🔭 I’m currently working on a discord bot 
 - 🌱 I’m currently learning web development 
