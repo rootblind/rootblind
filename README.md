@@ -1,5 +1,5 @@
 ### Greetings, this is rootblind! 
-#### I'm studying Computer Engineering and I like to code as a hobby.
+#### I'm studying Computer Science and I like to code as a hobby.
 ![I'm studying Computer Engineering and I like to code as a hobby.](https://i.ibb.co/HFSYFj6/ompu.png)
 
 
@@ -10,7 +10,7 @@ Programming Languages:
 <code><img height="40" alt="PYTHON" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/182px-Python-logo-notext.svg.png"></code>
 <code><img height="40" alt="Nodejs" src="https://i.ibb.co/Z8Lp5cb/d.png"></code>
 
-- 🔭 I’m currently working on a discord bot 
+- 🔭 I’m currently working on a discord bot and machine learning
 - 🌱 I’m currently learning web development 
 
 
