@@ -14,7 +14,7 @@ Programming Languages:
 - 🌱 I’m currently learning web development 
 
 
-[<img src='https://iili.io/KCU3U9R.png' alt='github' height='40'>](https://github.com/rootblind)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/grecu-ionut-catalin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/rootblind)  
+[<img src='https://iili.io/KCU3U9R.png' alt='github' height='40'>](https://github.com/rootblind)  [<img src='https://iili.io/KCUBTIR.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/grecu-ionut-catalin/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootblind)](https://github.com/anuraghazra/github-readme-stats)
 
