@@ -15,6 +15,8 @@ Programming Languages:
 
 
 [<img src='https://iili.io/KCU3U9R.png' alt='github' height='40'>](https://github.com/rootblind)  [<img src='https://iili.io/KCUBTIR.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/grecu-ionut-catalin/)  [<img src='https://orcid.org/assets/vectors/orcid.logo.icon.svg' alt='orcid' height='40'>](https://orcid.org/0009-0008-7845-6610)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootblind)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rootblind&show_icons=true)
