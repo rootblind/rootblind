@@ -14,7 +14,7 @@ Programming Languages:
 - 🌱 I’m currently learning web development 
 
 
-[<img src='https://iili.io/KCU3U9R.png' alt='github' height='40'>](https://github.com/rootblind)  [<img src='https://iili.io/KCUBTIR.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/grecu-ionut-catalin/)  [<img src='[https://iili.io/KCUBTIR.png](https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fblog.itoca.org%2Fwp-content%2Fuploads%2F2021%2F02%2Forcid-logo.png&sp=1762535806T22bd2fd70037cc22e08c90bfd0d882b824a28ce5cd94bd84123804f981d1b65d)' alt='linkedin' height='40'>](https://orcid.org/0009-0008-7845-6610)
+[<img src='https://iili.io/KCU3U9R.png' alt='github' height='40'>](https://github.com/rootblind)  [<img src='https://iili.io/KCUBTIR.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/grecu-ionut-catalin/)  [<img src='https://orcid.org/assets/vectors/orcid.logo.icon.svg' alt='orcid' height='40'>](https://orcid.org/0009-0008-7845-6610)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootblind)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rootblind&show_icons=true)
