@@ -42,8 +42,7 @@ I'm interested in gaining professional experience in building dynamic and scalab
 # Contact
 
 [<img src='https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white' alt='Discord' height='30'>](https://discordapp.com/channels/@me/224131162996473856)  
-[<img src='https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff' alt='github' height='30'>](https://www.linkedin.com/in/grecu-ionut-catalin/)
-
+[<img src='https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff' alt='github' height='30'>](https://www.linkedin.com/in/grecu-ionut-catalin/)  
 [<img src='https://img.shields.io/badge/-grecu.catalin@proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white' alt='Discord' height='25'>](mailto:grecu.catalin@proton.me)
 
 
