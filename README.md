@@ -46,6 +46,6 @@ I'm interested in gaining professional experience in building dynamic and scalab
 [<img src='https://img.shields.io/badge/-grecu.catalin@proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white' alt='Discord' height='25'>](mailto:grecu.catalin@proton.me)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootblind)](https://github.com/anuraghazra/github-readme-stats)
+[![rootblind's GitHub stats](https://github-stats-extended.vercel.app/api?username=rootblind&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rootblind&show_icons=true)
+![GitHub stats](https://github-stats-extended.vercel.app/api/top-langs/?username=rootblind&hide=Jupyter%20Notebook&theme=tokyonight)
