@@ -45,6 +45,7 @@ I'm interested in gaining professional experience in building dynamic and scalab
 [<img src='https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff' alt='github' height='30'>](https://www.linkedin.com/in/grecu-ionut-catalin/)  
 [<img src='https://img.shields.io/badge/-grecu.catalin@proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white' alt='Discord' height='25'>](mailto:grecu.catalin@proton.me)
 
+# Stats
 
 [![rootblind's GitHub stats](https://github-stats-extended.vercel.app/api?username=rootblind&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
 
