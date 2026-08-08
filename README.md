@@ -4,7 +4,7 @@
 
 # About me
 
-I'm studying Computer Science and I like to code as a hobby.
+My name is Ionuț-Cătălin Grecu, I'm studying Computer Science and I like to code as a hobby.
 I'm interested in gaining professional experience in building dynamic and scalable applications and systems that solve real-life problems while being user-friendly.
 
 ## Status
